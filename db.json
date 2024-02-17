@@ -1,0 +1,256 @@
+{
+  "quizzes": [
+    {
+      "id": "1",
+      "name": "Quiz 1",
+      "questions": [
+        {
+          "id": "1",
+          "question": "What is the capital of France?",
+          "answers": [
+            {
+              "id": "1",
+              "answer": "Paris",
+              "isCorrect": true
+            },
+            {
+              "id": "2",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "3",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "4",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "question": "What is the capital of Germany?",
+          "answers": [
+            {
+              "id": "5",
+              "answer": "Paris",
+              "isCorrect": false
+            },
+            {
+              "id": "6",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "7",
+              "answer": "Berlin",
+              "isCorrect": true
+            },
+            {
+              "id": "8",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "question": "What is the capital of Spain?",
+          "answers": [
+            {
+              "id": "9",
+              "answer": "Paris",
+              "isCorrect": false
+            },
+            {
+              "id": "10",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "11",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "12",
+              "answer": "Madrid",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Quiz 2",
+      "questions": [
+        {
+          "id": "4",
+          "question": "What is the capital of Italy?",
+          "answers": [
+            {
+              "id": "13",
+              "answer": "Rome",
+              "isCorrect": true
+            },
+            {
+              "id": "14",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "15",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "16",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "question": "What is the capital of Portugal?",
+          "answers": [
+            {
+              "id": "17",
+              "answer": "Paris",
+              "isCorrect": false
+            },
+            {
+              "id": "18",
+              "answer": "Lisbon",
+              "isCorrect": true
+            },
+            {
+              "id": "19",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "20",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "question": "What is the capital of Greece?",
+          "answers": [
+            {
+              "id": "21",
+              "answer": "Athens",
+              "isCorrect": true
+            },
+            {
+              "id": "22",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "23",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "24",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Quiz 3",
+      "questions": [
+        {
+          "id": "7",
+          "question": "What is the capital of the United Kingdom?",
+          "answers": [
+            {
+              "id": "25",
+              "answer": "Paris",
+              "isCorrect": false
+            },
+            {
+              "id": "26",
+              "answer": "London",
+              "isCorrect": true
+            },
+            {
+              "id": "27",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "28",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "question": "What is the capital of the Netherlands?",
+          "answers": [
+            {
+              "id": "29",
+              "answer": "Paris",
+              "isCorrect": false
+            },
+            {
+              "id": "30",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "31",
+              "answer": "Amsterdam",
+              "isCorrect": true
+            },
+            {
+              "id": "32",
+              "answer": "Madrid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "question": "What is the capital of Belgium?",
+          "answers": [
+            {
+              "id": "33",
+              "answer": "Paris",
+              "isCorrect": false
+            },
+            {
+              "id": "34",
+              "answer": "London",
+              "isCorrect": false
+            },
+            {
+              "id": "35",
+              "answer": "Berlin",
+              "isCorrect": false
+            },
+            {
+              "id": "36",
+              "answer": "Brussels",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
