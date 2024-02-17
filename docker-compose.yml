@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+
+  next-js-docker:
+    container_name: next-js-docker
+    networks:
+      - nextJsNetwork
+    image: node:18-buster-slim
+    volumes:
+      - ./:/app
+    ports:
+      - "3000:3000"
+      - "9000:9000"
+    working_dir: /app
+    command: /app/onstart.sh
+
+networks:
+  nextJsNetwork:
+    driver: bridge
