@@ -6,7 +6,7 @@ services:
     container_name: next-js-docker
     networks:
       - nextJsNetwork
-    image: node:18-buster-slim
+    image: node:20-buster-slim
     volumes:
       - ./:/app
     ports:
